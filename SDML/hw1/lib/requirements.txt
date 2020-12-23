@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+pytorch
+torchvision
+apex
+fast-bert
